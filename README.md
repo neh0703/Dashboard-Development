@@ -39,3 +39,8 @@ e.) **Geographical Insights**: A filled map showing regional sales distribution 
 **Conclusion**
 
 The Power BI dashboard successfully transformed raw sales data into meaningless business intelligence.It enables management to make data-driven decisions by providing a comprehensive overview of performance across regions,products,and time periods.This project enhanced my understanding of data visualization principles ,KPI tracking , and dashboard storytelling - key skills for any aspiring data analyst.
+
+**Output**
+
+<img width="950" height="482" alt="Image" src="https://github.com/user-attachments/assets/46bc097e-91b3-460a-aa9c-6532d8690d49" />
+
